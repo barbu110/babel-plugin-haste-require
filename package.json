@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-haste-require",
+  "package-name": "git+https://32e8346f89a7570c4f2ffafd250fb97311180530:x-oauth-basic@github.com/barbu110/babel-plugin-haste-require.git",
+  "version": "1.0.0",
+  "description": "A Babel plugin to rewrite required modules' names based on a modules map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbu110/babel-plugin-haste-require.git"
+  },
+  "author": "Victor Barbu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barbu110/babel-plugin-haste-require/issues"
+  },
+  "homepage": "https://github.com/barbu110/babel-plugin-haste-require#readme"
+}
