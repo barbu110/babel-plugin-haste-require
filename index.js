@@ -4,12 +4,7 @@ function mapModule(state, module) {
         return moduleMap[module];
     }
 
-    let modulePrefix = state.opts.prefix;
-    if (modulePrefix == null) {
-        modulePrefix = './';
-    }
-
-    return modulePrefix + module;
+    return null;
 }
 
 module.exports = function({ types }) {
